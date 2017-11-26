@@ -103,3 +103,4 @@ ENV/
 
 # raw_data
 data/
+*.code-workspace
